@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter: 
-  username               : "@LucasGabor3"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Lukas Gabor"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "ja.jpg"
+  bio              : "Student forever, driven by a desire to face unknown, motivated by the prospects of a better future"
   location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "https://jetzlab.yale.edu/"
+  pubmed           : 
   googlescholar    : "https://scholar.google.cz/citations?user=pLQXY5wAAAAJ&hl=cs"
-  email            :
+  email            : "gabor@fzp.czu.cz"
   researchgate     :  "https://www.researchgate.net/profile/Lukas-Gabor"
   uri              :
   bitbucket        :
@@ -100,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-6137-0994"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "https://twitter.com/LucasGabor3"
