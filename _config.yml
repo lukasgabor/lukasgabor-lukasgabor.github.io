@@ -56,8 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter: https://twitter.com/LucasGabor3
-  username               : @LucasGabor3
+twitter: "https://twitter.com/LucasGabor3"
+  username               : "@lucasGabor3"
 facebook:
   username               :
   app_id                 :
