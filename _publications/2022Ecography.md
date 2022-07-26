@@ -1,7 +1,7 @@
 ---
 title: "Habitats as predictors in species distribution models: Shall we use continuous or binary data?"
 collection: publications
-permalink: /publication/Ecography2022
+permalink: /publication/2022Ecography
 date: 2022-4-22
 venue: 'Ecography'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/ecog.06022'
