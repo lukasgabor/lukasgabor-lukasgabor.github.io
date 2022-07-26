@@ -1,7 +1,7 @@
 ---
 title: "Effects of environmental conditions on ICESat-2 terrain and canopy heights retrievals in Central European mountains"
 collection: publications
-permalink: /publications/RemoteSensingOfEnvironment
+permalink: /publication/RemoteSensingOfEnvironment2022
 date: 2022-8-15
 venue: 'Remote Sensing of Environment'
 paperurl: 'https://github.com/lukasgabor/lukasgabor.github.io/blob/master/files/2022RemoteSensingOfEnvironment.pdf'
