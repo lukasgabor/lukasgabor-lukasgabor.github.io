@@ -1,5 +1,5 @@
 ---
-title: "Does Positional Error Affect Fine-Scale Species Distribution Models?"
+title: "Does positional error affect fine-scale species distribution models?"
 collection: talks
 type: "Conference talk"
 permalink: /talks/2019EcologicalModeling
