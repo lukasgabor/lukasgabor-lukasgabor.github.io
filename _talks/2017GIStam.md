@@ -1,5 +1,5 @@
 ---
-title: "The Quality of Spatial Data and its Effect on Species Distribution Model"
+title: "The quality of spatial data and its effect on species distribution models"
 collection: talks
 type: " Conference talk"
 permalink: /talks/2017GIStam
